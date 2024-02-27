@@ -1,0 +1,7 @@
+backend/venv
+frontend/.next
+frontend/.env.local
+backend/.env
+frontend/node_modules
+.vscode/
+.DS_Store

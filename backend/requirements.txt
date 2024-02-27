@@ -1,1 +1,5 @@
 flask
+mysqlclient
+flask_mysqldb
+python-dotenv
+flask-cors
